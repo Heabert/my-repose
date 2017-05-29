@@ -1,0 +1,2 @@
+In this project you will build a more funcational website with home about & contact page.
+The links have to be working links, meaning no matter what page you are on you can select a link to take you back to your previous page.
